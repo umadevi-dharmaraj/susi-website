@@ -1,0 +1,1 @@
+document.getElementById("menu").onclick=()=>document.getElementById("links").classList.toggle("open");
